@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-✨ Atuo na área de tecnologia há mais de 5 anos, iniciando minha jornada como QA, onde desenvolvi automações de testes para aplicações web e mobile utilizando Appium e selenium. Com o tempo, minha paixão pelo desenvolvimento me levou a migrar para a área de back-end, onde hoje trabalho com Java e o ecossistema Spring.
+✨ Atuo na área de tecnologia há mais de 4 anos, iniciando minha jornada como QA, onde desenvolvi automações de testes para aplicações web e mobile utilizando Appium e selenium. Com o tempo, minha paixão pelo desenvolvimento me levou a migrar para a área de back-end, onde hoje trabalho com Java e o ecossistema Spring.
 
 Minha experiência abrange a construção de APIs robustas e escaláveis, sempre seguindo as melhores práticas do desenvolvimento de software e claro, utilizando minhas experiências como QA. Trabalho com metodologias ágeis, especialmente Scrum, e tenho um perfil proativo, voltado para a solução de problemas e otimização de processos. Estou sempre em busca de aprender e aplicar soluções eficientes que impactem positivamente os projetos nos quais atuo. ✨
 
